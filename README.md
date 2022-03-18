@@ -3,4 +3,19 @@ C++ code used to split the user's input. It will receive a line and seperate the
  
 Here is an example of what the program does.
 
-![String example](https://user-images.githubusercontent.com/100814612/159091494-3f885efd-2ce9-475f-80b3-15b38630e159.png)
+```
+Enter a line of text: A cool program using vectors to split a string
+
+There are 9 words in your line. Here are the words:
+Word 1: A
+Word 2: cool
+Word 3: program
+Word 4: using
+Word 5: vectors
+Word 6: to
+Word 7: split
+Word 8: a
+Word 9: string
+
+Enter a line of text:
+```
